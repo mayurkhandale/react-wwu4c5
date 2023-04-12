@@ -6,8 +6,9 @@ export default function App() {
     <div>
       <h1>Hello StackBlitz! </h1>
       <p>this my first pull Request</p>
+      <p>this my first pull Request</p> <p>this my first pull Request</p>
 
-      <p>React Training :)</p>
+      <p>Reactww Training :)</p>
     </div>
   );
 }
