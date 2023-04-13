@@ -8,7 +8,7 @@ export default function App() {
       <p>this my first pull Request</p>
       <p>this my first pull Request</p> <p>this my first pull Request</p>
 
-      <p>Reactww Training :)</p>
+      <p>Reactww Training </p>
     </div>
   );
 }
